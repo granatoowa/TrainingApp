@@ -1,4 +1,4 @@
-# hel
+# TrainingApp
 
 A new Flutter project.
 
