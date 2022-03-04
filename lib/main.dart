@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:training_app/video_info.dart';
+import 'package:get/get.dart';
 import 'home_page.dart';
 
 void main() {
@@ -11,12 +13,12 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       title: 'Training App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const HomePage(),
+      home: const VideoInfo(),
     );
   }
 }

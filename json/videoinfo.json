@@ -2,19 +2,25 @@
     {
     "title": "Squat and Walk",
     "time": "45 seconds" ,
-    "thumbnail": "embed/squat1.jpg",
-    "videoUrl": "http::db.bslmeiyu.com/" 
+    "thumbnail": "assets/squat.jpg",
+    "videoUrl": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4" 
     },
     {
         "title": "Pile Squat and Hell Raises" ,
         "time": "55 seconds"  ,
-        "thumbnail": "embed/squat2.jpg",
-        "videoUrl": "http:"
+        "thumbnail": "assets/squat.jpg",
+        "videoUrl": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4"
     },
     {
         "title": "Squat Kickback",
         "time": "60 seconds" ,
-        "thumbnail": "hello",
-        "videoUrl": "heello"
+        "thumbnail": "assets/squat.jpg",
+        "videoUrl": "https://github.com/flutter/assets-for-api-docs/blob/master/assets/videos/bee.mp4"
+    },
+    {
+        "title": "Squat with Side Leg Lift",
+        "time": "120 seconds" ,
+        "thumbnail": "assets/squat.jpg",
+        "videoUrl": "https://github.com/flutter/assets-for-api-docs/blob/master/assets/videos/bee.mp4"
     }
 ]
